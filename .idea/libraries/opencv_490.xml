@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="opencv-490">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../opencv/build/java/opencv-490.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/tess4j-5.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/jna-5.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/lept4j-1.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/slf4j-api-2.0.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/commons-io-2.15.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-slf4j-impl-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-slf4j2-impl-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-1.2-api-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-to-jul-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-api-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-api-test-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-appserver-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-cassandra-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-core-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.23.1-bin/log4j-to-slf4j-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/MySqlJdbcDriver/mysql-connector-j-8.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../opencv/build/java/x64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../opencv/build/java/opencv-490.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../opencv/build/java/opencv-490.jar!/" />
+    </SOURCES>
+  </library>
+</component>
