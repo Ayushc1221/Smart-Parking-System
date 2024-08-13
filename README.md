@@ -18,8 +18,6 @@ git clone https://github.com/your-username/SmartParkingSystem.git
 Navigate to the project directory:
 bash
 Copy code
-# Command to start your application
-Access the system through http://localhost:your_port.
 
 Contribution
 This project is open for contributions. Feel free to submit issues or pull requests if you have any suggestions or improvements.
